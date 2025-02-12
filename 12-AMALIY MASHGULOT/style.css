@@ -1,0 +1,15 @@
+	margin: 30;
+}
+div{
+	ul{
+	display: flex;
+	background-color: #dae0e5;
+}
+li{
+	color: white;
+	margin: 6px auto;
+	padding: 5px;
+	list-style:none;
+	background-color: #469aec;
+	border-radius: 5px;
+}

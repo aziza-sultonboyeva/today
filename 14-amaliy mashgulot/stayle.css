@@ -1,0 +1,16 @@
+div{
+	display: flex;
+}
+h1{
+	background-color: #ccd5d1;
+	margin: 20px auto;
+	padding: 50px;
+	border-radius: 50px;
+	box-shadow: 2px 2px 2px 2px #548bb6;
+	transition:transition 1s ease;
+}
+.card1:hover{
+	transform: scale(5,5.5);
+}
+
+
